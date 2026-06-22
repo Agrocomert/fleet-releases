@@ -1,5 +1,5 @@
 {
-  "version": "2.4.2",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.4.2/Fleet-Management-Setup-2.4.2.exe",
-  "releaseNotes": "Grace period 14 zile dupa expirare + update checker automat"
+  "version": "2.4.3",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.4.3/Fleet-Management-Setup-2.4.3.exe",
+  "releaseNotes": "Fix banner update fals + criptare date la volume mari"
 }
