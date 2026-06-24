@@ -1,5 +1,5 @@
 {
-  "version": "2.4.4",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.4.4/Fleet-Management-Setup-2.4.4.exe",
-  "releaseNotes": "Build generic + export/restore cu setari + fix meniu Actiuni"
+  "version": "2.4.5",
+  "downloadUrl": "https://github.com/Agrocomert/-it-fleet-management/releases/download/v2.4.5/IT.Fleet.Management.Setup.2.4.5.exe",
+  "releaseNotes": "Audit fixes (logic + correctness)"
 }
