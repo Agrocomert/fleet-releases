@@ -1,5 +1,5 @@
 {
-  "version": "2.4.6",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.4.6/IT-Fleet-Management-Setup-2.4.6.exe",
-  "releaseNotes": "Corecturi: raport pe perioadă (crash), liste în tema întunecată, import factură PDF. Pornire mai rapidă."
+  "version": "2.4.8",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.4.8/IT-Fleet-Management-Setup-2.4.8.exe",
+  "releaseNotes": "Nu mai șterge automat echipamente la pornire (curățare manuală în Verificare integritate); adaptare la orice ecran; corecturi căutare/filtre."
 }
