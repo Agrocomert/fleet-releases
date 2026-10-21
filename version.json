@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.5.0/IT-Fleet-Management-Setup-2.5.0.exe",
-  "releaseNotes": "Backup automat reparat (nu mai rula din iunie) + stare în Setări și backup la închidere; datele salvate și într-un fișier cifrat; corectat importul de echipamente din Excel/ERP și etichetele QR (cădeau în 2.4.8); rapoarte noi (licențe, consumabile, service, buget, comparație ani, casare, inventariere); securitate: pdf.js, SheetJS, nodemailer, Electron 44; de acum update automat."
+  "version": "2.5.1",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.5.1/IT-Fleet-Management-Setup-2.5.1.exe",
+  "releaseNotes": "Reorganizare internă a codului (alocări, persoane, rapoarte) și teste suplimentare. Fără modificări vizibile."
 }
