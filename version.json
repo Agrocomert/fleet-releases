@@ -1,5 +1,5 @@
 {
-  "version": "2.5.2",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.5.2/IT-Fleet-Management-Setup-2.5.2.exe",
-  "releaseNotes": "Casare din gestiunea persoanei cu proces-verbal, raport de casări pe gestiuni, fișă de trasabilitate a echipamentelor, import ERP „Balanță folosință”, copie de siguranță a datelor creată la pornire."
+  "version": "2.5.3",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.5.3/IT-Fleet-Management-Setup-2.5.3.exe",
+  "releaseNotes": "Import ERP pentru registrul de imobilizări, valoare contabilă în referatul și procesul-verbal de casare, recunoaștere extinsă a echipamentelor IT, verificare de dubluri la import."
 }
