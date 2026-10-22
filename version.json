@@ -1,5 +1,5 @@
 {
-  "version": "2.5.1",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.5.1/IT-Fleet-Management-Setup-2.5.1.exe",
-  "releaseNotes": "Reorganizare internă a codului (alocări, persoane, rapoarte) și teste suplimentare. Fără modificări vizibile."
+  "version": "2.5.2",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.5.2/IT-Fleet-Management-Setup-2.5.2.exe",
+  "releaseNotes": "Casare din gestiunea persoanei cu proces-verbal, raport de casări pe gestiuni, fișă de trasabilitate a echipamentelor, import ERP „Balanță folosință”, copie de siguranță a datelor creată la pornire."
 }
