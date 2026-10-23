@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.6.0/IT-Fleet-Management-Setup-2.6.0.exe",
-  "releaseNotes": "Import de facturi PDF primite (echipamente, servicii) cu legare de echipamentele existente, alocare și PV de predare; registru de facturi; raport de cheltuieli pe an, categorii și furnizori."
+  "version": "2.6.1",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.6.1/IT-Fleet-Management-Setup-2.6.1.exe",
+  "releaseNotes": "Facturi PDF: citire mai precisă a facturilor de la magazine online (număr, total, descrieri, costuri de livrare); registrul afișează totalul calculat când lipsește din PDF."
 }
