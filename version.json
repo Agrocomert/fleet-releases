@@ -1,5 +1,5 @@
 {
-  "version": "2.6.1",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.6.1/IT-Fleet-Management-Setup-2.6.1.exe",
-  "releaseNotes": "Facturi PDF: citire mai precisă a facturilor de la magazine online (număr, total, descrieri, costuri de livrare); registrul afișează totalul calculat când lipsește din PDF."
+  "version": "2.7.0",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.7.0/IT-Fleet-Management-Setup-2.7.0.exe",
+  "releaseNotes": "Din facturile PDF poți acum crea direct licențe și stoc. Liniile de tip licență devin licență nouă sau reînnoire a uneia existente (expirarea și costul de reînnoire se actualizează). Liniile de tip consumabil devin articol nou sau reaprovizionare, cu intrare în jurnalul de stoc. Verifici totul în previzualizare înainte de import. „Abonament Microsoft 365 / ESET / Adobe…\" se recunoaște ca licență, nu ca service."
 }
