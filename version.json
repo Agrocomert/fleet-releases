@@ -1,5 +1,5 @@
 {
-  "version": "2.8.0",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.8.0/IT-Fleet-Management-Setup-2.8.0.exe",
-  "releaseNotes": "Jurnal al documentelor de casare. Referatele și procesele-verbale generate se înregistrează automat (Rapoarte → Casări): număr, dată, comisie, totaluri și poziții. Le poți căuta pe an și tip, vedea pozițiile, retipări identic, exporta în Excel sau șterge din jurnal. Numărul propus continuă numerotarea, separat pe tip și pe an, cu avertisment la număr dublat, iar comisia se precompletează din ultimul document."
+  "version": "2.9.0",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.9.0/IT-Fleet-Management-Setup-2.9.0.exe",
+  "releaseNotes": "Trasabilitate completă pentru casare. În istoricul unui echipament apar acum referatele și procesele-verbale de casare din jurnal în care a fost inclus (tip, număr, poziții, comisie), în grupa „Casare\" a filtrului. Procesul-verbal apare după casare, iar referatul după propunere. Documentele emise înainte de 2.8.0 nu sunt în jurnal."
 }
