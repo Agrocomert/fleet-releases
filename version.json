@@ -1,5 +1,5 @@
 {
-  "version": "2.5.3",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.5.3/IT-Fleet-Management-Setup-2.5.3.exe",
-  "releaseNotes": "Import ERP pentru registrul de imobilizări, valoare contabilă în referatul și procesul-verbal de casare, recunoaștere extinsă a echipamentelor IT, verificare de dubluri la import."
+  "version": "2.6.0",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.6.0/IT-Fleet-Management-Setup-2.6.0.exe",
+  "releaseNotes": "Import de facturi PDF primite (echipamente, servicii) cu legare de echipamentele existente, alocare și PV de predare; registru de facturi; raport de cheltuieli pe an, categorii și furnizori."
 }
