@@ -1,5 +1,5 @@
 {
-  "version": "2.9.0",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.9.0/IT-Fleet-Management-Setup-2.9.0.exe",
-  "releaseNotes": "Trasabilitate completă pentru casare. În istoricul unui echipament apar acum referatele și procesele-verbale de casare din jurnal în care a fost inclus (tip, număr, poziții, comisie), în grupa „Casare\" a filtrului. Procesul-verbal apare după casare, iar referatul după propunere. Documentele emise înainte de 2.8.0 nu sunt în jurnal."
+  "version": "2.10.0",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.10.0/IT-Fleet-Management-Setup-2.10.0.exe",
+  "releaseNotes": "Securitate și corecturi din auditul fluxurilor. Accesul de pe mobil e oprit implicit (se activează din Setări → Acces mobil) și cere login verificat pe calculator; parolele implicite sunt refuzate, iar parolele din setări nu mai pleacă de pe calculator. Importul Excel cu foile Persoane + Echipamente nu mai pierde echipamente și sare dublurile. Restaurarea din backup păstrează Coșul. Casarea eliberează locurile de licență și închide service-ul deschis. Sincronizarea prin folder nu mai suprascrie modificările de pe mobil / alt calculator. Alocarea în masă respectă pragul de aprobare. „Anulează” după ștergere e sigur, numerele de PV nu se mai refolosesc, istoricul consumabilelor șterse rămâne, data de azi e în ora locală."
 }
