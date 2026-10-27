@@ -1,5 +1,5 @@
 {
-  "version": "2.11.0",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.11.0/IT-Fleet-Management-Setup-2.11.0.exe",
-  "releaseNotes": "Securitate și facturi. Parolele de email și Active Directory se păstrează cifrate cu contul Windows, iar certificatele TLS se verifică (opțiune în Setări pentru servere interne cu certificat propriu). Backup-urile se pot cifra cu o parolă din Setări. Pagina are o politică de conținut care blochează scripturile injectate, iar raportul personalizat escapează datele. Facturile eMAG Marketplace de la vânzători străini se citesc corect, iar anexele care nu sunt facturi fiscale vin debifate la import. Dependență de email actualizată."
+  "version": "2.12.0",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.12.0/IT-Fleet-Management-Setup-2.12.0.exe",
+  "releaseNotes": "Status vechime: filtre „Depășit” și „De înlocuit” în Echipamente și Rapoarte, cu durate de înlocuire configurabile pe tip în Setări; raportul de vechime arată echipamentele care trebuie înlocuite."
 }
