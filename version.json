@@ -1,5 +1,5 @@
 {
-  "version": "2.10.0",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.10.0/IT-Fleet-Management-Setup-2.10.0.exe",
-  "releaseNotes": "Securitate și corecturi din auditul fluxurilor. Accesul de pe mobil e oprit implicit (se activează din Setări → Acces mobil) și cere login verificat pe calculator; parolele implicite sunt refuzate, iar parolele din setări nu mai pleacă de pe calculator. Importul Excel cu foile Persoane + Echipamente nu mai pierde echipamente și sare dublurile. Restaurarea din backup păstrează Coșul. Casarea eliberează locurile de licență și închide service-ul deschis. Sincronizarea prin folder nu mai suprascrie modificările de pe mobil / alt calculator. Alocarea în masă respectă pragul de aprobare. „Anulează” după ștergere e sigur, numerele de PV nu se mai refolosesc, istoricul consumabilelor șterse rămâne, data de azi e în ora locală."
+  "version": "2.11.0",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.11.0/IT-Fleet-Management-Setup-2.11.0.exe",
+  "releaseNotes": "Securitate și facturi. Parolele de email și Active Directory se păstrează cifrate cu contul Windows, iar certificatele TLS se verifică (opțiune în Setări pentru servere interne cu certificat propriu). Backup-urile se pot cifra cu o parolă din Setări. Pagina are o politică de conținut care blochează scripturile injectate, iar raportul personalizat escapează datele. Facturile eMAG Marketplace de la vânzători străini se citesc corect, iar anexele care nu sunt facturi fiscale vin debifate la import. Dependență de email actualizată."
 }
