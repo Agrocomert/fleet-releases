@@ -1,5 +1,5 @@
 {
-  "version": "2.12.0",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.12.0/IT-Fleet-Management-Setup-2.12.0.exe",
-  "releaseNotes": "Status vechime: filtre „Depășit” și „De înlocuit” în Echipamente și Rapoarte, cu durate de înlocuire configurabile pe tip în Setări; raportul de vechime arată echipamentele care trebuie înlocuite."
+  "version": "2.13.0",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.13.0/IT-Fleet-Management-Setup-2.13.0.exe",
+  "releaseNotes": "Audit complet: restaurarea și ștergerea definitivă în bloc din Coș aplică acum toate elementele selectate; atașamentele echipamentelor sunt păstrate în fișiere separate (salvare mai rapidă); sincronizarea Active Directory citește peste 500 de conturi, avertizează la ldap:// necriptat și poate marca inactive persoanele plecate; exportul PV în bloc și golirea datelor sunt mai sigure (backup înainte de golire); consumul peste stoc nu mai umflă rapoartele."
 }
