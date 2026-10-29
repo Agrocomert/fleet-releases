@@ -1,5 +1,5 @@
 {
-  "version": "2.13.0",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.13.0/IT-Fleet-Management-Setup-2.13.0.exe",
-  "releaseNotes": "Audit complet: restaurarea și ștergerea definitivă în bloc din Coș aplică acum toate elementele selectate; atașamentele echipamentelor sunt păstrate în fișiere separate (salvare mai rapidă); sincronizarea Active Directory citește peste 500 de conturi, avertizează la ldap:// necriptat și poate marca inactive persoanele plecate; exportul PV în bloc și golirea datelor sunt mai sigure (backup înainte de golire); consumul peste stoc nu mai umflă rapoartele."
+  "version": "2.13.1",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.13.1/IT-Fleet-Management-Setup-2.13.1.exe",
+  "releaseNotes": "Actualizări de componente: Electron 44.7, pdf.js 6.4, nodemailer 10.0.16 și alte dependențe interne. Fără modificări de funcționalitate."
 }
