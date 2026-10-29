@@ -1,5 +1,5 @@
 {
-  "version": "2.13.1",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.13.1/IT-Fleet-Management-Setup-2.13.1.exe",
-  "releaseNotes": "Actualizări de componente: Electron 44.7, pdf.js 6.4, nodemailer 10.0.16 și alte dependențe interne. Fără modificări de funcționalitate."
+  "version": "2.13.2",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.13.2/IT-Fleet-Management-Setup-2.13.2.exe",
+  "releaseNotes": "Facturi: coloana „Tip\" din registru se actualizează acum când schimbi categoria unei linii. Au apărut tipurile noi „Licențe\" și „Consumabile\". Facturile deja importate se corectează singure."
 }
