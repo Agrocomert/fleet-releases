@@ -1,5 +1,5 @@
 {
-  "version": "2.13.2",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.13.2/IT-Fleet-Management-Setup-2.13.2.exe",
-  "releaseNotes": "Facturi: coloana „Tip\" din registru se actualizează acum când schimbi categoria unei linii. Au apărut tipurile noi „Licențe\" și „Consumabile\". Facturile deja importate se corectează singure."
+  "version": "2.13.3",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.13.3/IT-Fleet-Management-Setup-2.13.3.exe",
+  "releaseNotes": "Coduri de inventar comune: mai multe echipamente pot avea același cod (cum le-a înregistrat recepția). Importul din Excel și ERP nu mai pierde echipamente: se adaugă doar cele care lipsesc, iar un reimport nu dublează nimic. Seriile diferite sub același cod sunt tratate ca echipamente distincte. În Verificarea de integritate, „Nr. inventar duplicate\" devine „Cod de inventar comun (lot)\", informativ, nu eroare."
 }
