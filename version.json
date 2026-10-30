@@ -1,5 +1,5 @@
 {
-  "version": "2.13.4",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.13.4/IT-Fleet-Management-Setup-2.13.4.exe",
-  "releaseNotes": "Lista de inventariere se poate face acum și pe persoană. În fereastra „Listă de inventariere\" apare câmpul „Persoana\", lângă Gestiunea. Lista persoanelor urmează gestiunea aleasă. Cu o persoană aleasă, lista conține doar echipamentele ei, iar antetul arată „Persoana: …\"."
+  "version": "2.14.0",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.14.0/IT-Fleet-Management-Setup-2.14.0.exe",
+  "releaseNotes": "Solicitări IT (nou): tab 🎫 Solicitări pentru IT, cu înregistrare, stare, responsabil, termen și timp lucrat pe solicitare, plus export Excel. Angajații trimit cereri din „Echipamentele mele\" (butonul „🎫 Cerere către IT\"). Raport nou în Rapoarte: ⏱️ Încărcare IT și solicitări, cu ore disponibile față de ore înregistrate pe om, KPI (rezolvate în aceeași zi sau a doua zi lucrătoare, timp mediu) și distribuție pe domenii și departamente. Server fără Electron pentru un VM (server/, cu ghid de instalare), care primește solicitările angajaților. Solicitările trimise prin server se preiau automat în aplicație."
 }
