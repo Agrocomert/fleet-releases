@@ -1,5 +1,5 @@
 {
-  "version": "2.14.1",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.14.1/IT-Fleet-Management-Setup-2.14.1.exe",
-  "releaseNotes": "Rapoarte: secțiunea „⏱️ Încărcare IT și solicitări\" apare acum mereu. Dacă nu există încă nicio solicitare, arată „Nu există încă solicitări\" și unde se înregistrează prima (🎫 Solicitări), în loc să lipsească."
+  "version": "2.14.2",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.14.2/IT-Fleet-Management-Setup-2.14.2.exe",
+  "releaseNotes": "Actualizare de securitate: nodemailer 10.1.7, care corectează erori de interpretare a adreselor în e-mailurile trimise din aplicație."
 }
