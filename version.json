@@ -1,5 +1,5 @@
 {
-  "version": "2.14.2",
-  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.14.2/IT-Fleet-Management-Setup-2.14.2.exe",
-  "releaseNotes": "Actualizare de securitate: nodemailer 10.1.7, care corectează erori de interpretare a adreselor în e-mailurile trimise din aplicație."
+  "version": "2.14.3",
+  "downloadUrl": "https://github.com/Agrocomert/fleet-releases/releases/download/v2.14.3/IT-Fleet-Management-Setup-2.14.3.exe",
+  "releaseNotes": "Rol nou „Suport IT\" (⚙️ Setări → Utilizatori): contul vede doar tabul 🎫 Solicitări, fără căutare globală, scanner și statistici. Se folosește doar în aplicația desktop; prin accesul din rețea contul e refuzat."
 }
